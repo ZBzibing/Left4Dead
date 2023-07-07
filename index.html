@@ -1,0 +1,15 @@
+﻿<html>
+<body onload="javascript:dogo();">
+    <script>
+        function dogo()
+        {
+            var urls = new Array();
+            urls[0] = "motd.html";
+            urls[1] = "pm/";
+            urls[2] = "pm/all.php";
+            n = Math.floor(Math.random()*3);
+            location.href= urls[n];
+        }
+    </script>
+</body>
+</html>
