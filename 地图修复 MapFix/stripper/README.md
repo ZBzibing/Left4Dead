@@ -1,7 +1,11 @@
-### [什么是 Stripper:Source](#)
-    这是一款小巧而灵活的插件，可让您在地图替换或过滤并添加实体，与 botman 为《半条命 1》开发的 Stripper2 非常相似。你可以用特定值或正则表达式过滤掉实体，或声明要添加的新实体。你还可以指定每个地图的配置选项。
+[什么是 Stripper:Source](#什么是-strippersource)  
+[如何安装地图 Stripper:Source](#如何安装地图-strippersource)  
+[如何使用 Stripper:Source](#如何使用-strippersource)  
+[地图文件介绍](#地图文件介绍)
+## 什么是 Stripper:Source
+这是一款小巧而灵活的插件，可让您在地图替换或过滤并添加实体，与 botman 为《半条命 1》开发的 Stripper2 非常相似。你可以用特定值或正则表达式过滤掉实体，或声明要添加的新实体。你还可以指定每个地图的配置选项。
 
-### [如何安装地图 Stripper:Source](#)
+## 如何安装地图 Stripper:Source
 1. 首先，确保运行环境支持库已安装。 你需要的 Metamod:source 1.8.6 或者更高的版本.
 2. 根据你的操作系统下载相对应的版本
 3. 解压ZIP文件到你的ADDONS目录下
@@ -11,7 +15,7 @@
 #### Stripper下载地址 : [Stripper:source](http://www.bailopan.net/stripper/)  
 推荐下载整合基础包 : [SM基础包](https://github.com/ZBzibing/Left4Dead/tree/main/SM%E5%9F%BA%E7%A1%80%E5%8C%85)
 
-### [如何使用 Stripper:Source](#)
+## 如何使用 Stripper:Source
 ```c
 modify:
 {
@@ -64,3 +68,7 @@ add:
 ```
 
 [模型与属性说明](https://blog.csdn.net/ZBzibing/article/details/41955539)
+
+## 地图文件介绍
+1. FixMaps 只对地图BUG点位及卡坦克位置进行了修复,[详细内容点击查看](https://github.com/ZBzibing/Left4Dead/tree/main/%E5%9C%B0%E5%9B%BE%E4%BF%AE%E5%A4%8D%20MapFix/stripper/fixmaps)
+2. Hunter 猎人模式,对武器/投掷/药品进行调整,并对地图进行路线调整,修复2个地图剧情,部分文件需要下载NAV文件
