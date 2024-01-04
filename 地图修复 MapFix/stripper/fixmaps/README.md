@@ -21,8 +21,8 @@
 ### 1. 公寓   The Apartments
 - 起点屋顶可以跳楼的捷径修复
 ![alt A101](./img/A101.jpg)
-![alt A102a](.\img\A102a.jpg)
-![alt A102b](..\img\A102b.jpg)
+![alt A102a](./img/A102a.jpg)
+![alt A102b](./img/A102b.jpg)
 ### 2. 地铁   The Subway
 - 大厦外墙BUG点修复
 ![alt A201](.\img\A201.jpg)
