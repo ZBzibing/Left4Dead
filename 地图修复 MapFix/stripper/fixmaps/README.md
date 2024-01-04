@@ -1,12 +1,15 @@
 # L4D1地图BUG点修复MapFix
-#### 注意本程序需要<font color=skyblue>Stripper:source</font>插件库支持,可下载[SM基础包](https://github.com/ZBzibing/Left4Dead/tree/main/SM%E5%9F%BA%E7%A1%80%E5%8C%85)
+#### 注意本程序需要 [Stripper:source](http://www.bailopan.net/stripper/) 插件库支持,可下载 [SM基础包](https://github.com/ZBzibing/Left4Dead/tree/main/SM%E5%9F%BA%E7%A1%80%E5%8C%85)
 
-<font color=yellowgreen>
+<font color=#30e3ca>
 本修复原为猎人服的地图修复部分，因完善程度非常高。所以提取出为普通官方地图BUG进行修复。
 </font>
 
 - 2024-1-4
-  - 进行地图修复代码重新整理
+  - 提取地图修复代码,并重新整理优化
+- 默认修复内容
+  - MINI GUN机关枪(加特林) 统一替换 MACHINE GUN重机枪
+  - 高空坠落玩家视角卡住的BUG
 
 ## 修复地图目录列表
 [毫不留情 No Mercy](#毫不留情-no-mercy)
@@ -25,12 +28,24 @@
 ![alt A102b](./img/A102b.jpg)
 ### 2. 地铁   The Subway
 - 大厦外墙BUG点修复
-![alt A201](.\img\A201.jpg)
+![alt A201](./img/A201.jpg)
+- 大厦外墙BUG点修复
+![alt A202](./img/A202.jpg)
 ### 3. 下水道 The Sewer  
 - 开机关后，快速往前冲，不刷丧尸和感染者的BUG，需要安装 [机关尸潮修复插件](https://github.comZBzibing)
-- 1123123
+- 车站卡坦克修复
+![alt A301](./img/A301.jpg)
+- 救护车卡坦克修复
+![alt A302](./img/A302.jpg)
 ### 4. 医院   The Hospital
-### 5. 屋顶   Rooftop Finale	
+- 移除部分卡住感染者墙壁
+![alt A401](./img/A401.jpg)
+- 修复高空坠落玩家视角卡住BUG
+![alt A402](./img/A402.jpg)
+### 5. 屋顶   Rooftop Finale
+- 修复高空坠落玩家视角卡住BUG
+
+
 ## 坠机险途 Crash Course
 1. The Alleys
 2. The Truck Depot Finale	
