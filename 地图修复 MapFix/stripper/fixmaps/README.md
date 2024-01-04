@@ -27,23 +27,28 @@
 ![alt A102a](./img/A102a.jpg)
 ![alt A102b](./img/A102b.jpg)
 ### 2. 地铁   The Subway
-- 大厦外墙BUG点修复
+- MiniGun替换MachineGun
 ![alt A201](./img/A201.jpg)
-- 大厦外墙BUG点修复
+- 大厦外墙BUG点修复  
 ![alt A202](./img/A202.jpg)
 ### 3. 下水道 The Sewer  
 - 开机关后，快速往前冲，不刷丧尸和感染者的BUG，需要安装 [机关尸潮修复插件](https://github.comZBzibing)
-- 车站卡坦克修复
+- 车站卡坦克修复  
 ![alt A301](./img/A301.jpg)
-- 救护车卡坦克修复
+- 救护车卡坦克修复  
 ![alt A302](./img/A302.jpg)
 ### 4. 医院   The Hospital
-- 移除部分卡住感染者墙壁
-![alt A401](./img/A401.jpg)
+- 修复部分卡住感染者墙壁  
+![alt A401](./img/A402.jpg)
 - 修复高空坠落玩家视角卡住BUG
-![alt A402](./img/A402.jpg)
 ### 5. 屋顶   Rooftop Finale
 - 修复高空坠落玩家视角卡住BUG
+- MiniGun替换MachineGun  
+![alt](./img/A501.jpg)
+- 屋顶BUG点  
+![alt](./img/A502.jpg)
+- 空调机BUG点  
+![alt](./img/A503.jpg)
 
 
 ## 坠机险途 Crash Course
