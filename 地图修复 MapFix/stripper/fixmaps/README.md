@@ -52,8 +52,12 @@
 
 
 ## 坠机险途 Crash Course
-1. The Alleys
-2. The Truck Depot Finale	
+### 1. 小巷 The Alleys
+- 修复多玩家初始地点错误<font color=#30e3ca>(本BUG仅在多人5+player超过4位玩家时出现的错误)</font>  
+![alt](./img/B101.jpg)
+### 2. 卡车库的结局 The Truck Depot Finale	
+- 修复玩家不触发警报车可抄捷径BUG  
+![alt](./img/B201.jpg)
 ## 丧亡丧钟 Death Toll
 1. The Turnpike
 2. The Drains
@@ -79,16 +83,16 @@
 ## 最后一站 The Last Stand (Survival)
 1. 灯塔 The Lighthouse
 
-<!-- 1. 小巷
-2. 卡车库的结局	1. 收费公路
-2. 排水沟
-3. 教会
-4. 镇
-5. 船屋结局	1. 温室
-2. 起重机
-3. 施工现场
-4. 终端
-5. 跑道结局
+<!--
+1. 收费公路
+1. 排水沟
+2. 教会
+3. 镇
+4. 船屋结局	1. 温室
+5. 起重机
+6. 施工现场
+7. 终端
+8. 跑道结局
 血液中的收获
 血液中的收获	牺牲
 牺牲	最后一站(存活，不要混淆L4D2版本)
@@ -98,5 +102,5 @@
 3. 桥
 4. 火车站
 5. 农舍的结局	1. 码头
-2. 驳船
-3. 口结局	灯塔 -->
+6. 驳船
+7. 口结局	灯塔 -->
