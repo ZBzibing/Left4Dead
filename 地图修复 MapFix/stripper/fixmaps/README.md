@@ -61,6 +61,8 @@
 ### 2. 卡车库的结局 The Truck Depot Finale	
 - 修复玩家不触发警报车可抄捷径BUG  
 ![alt](./img/B201.jpg)
+- 修复玩家挂灯卡感染者BUG  
+![alt](./img/B202.jpg)
 ## 丧亡丧钟 Death Toll
 1. The Turnpike
 2. The Drains
