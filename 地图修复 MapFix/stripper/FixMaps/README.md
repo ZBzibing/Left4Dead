@@ -7,7 +7,8 @@
 
 - 2024-1-24
   - [x] 死亡丧钟 修复代码
-  - 修复 坠机险途开启机关后不可穿越火墙
+  - 新增 坠机险途开启机关后不可穿越火墙
+  - 修复 毫不留情03,机关处BUG点
 - 2024-1-20
   - [x] 坠机险途 修复代码
 - 2024-1-4
@@ -39,10 +40,12 @@
 ![alt A202](./img/A202.jpg)
 ### 3. 下水道 The Sewer  
 - 开机关后，快速往前冲，不刷丧尸和感染者的BUG，需要安装 [机关尸潮修复插件](https://github.com/ZBzibing/Left4Dead/blob/main/SP%E6%8F%92%E4%BB%B6/%E6%9C%BA%E5%85%B3%E5%B0%B8%E6%BD%AE%E8%A7%A6%E5%8F%91%E4%BF%AE%E5%A4%8D.sp)
+- 机关处BUG点  
+![alt](./img/A301.jpg)
 - 车站卡坦克修复  
-![alt A301](./img/A301.jpg)
+![alt](./img/A302.jpg)
 - 救护车卡坦克修复  
-![alt A302](./img/A302.jpg)
+![alt](./img/A303.jpg)
 ### 4. 医院 The Hospital
 - 修复部分卡住感染者墙壁  
 ![alt A401](./img/A402.jpg)
