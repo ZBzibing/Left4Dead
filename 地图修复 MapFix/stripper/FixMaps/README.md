@@ -76,7 +76,7 @@
 - 修复多玩家初始地点错误<font color=#30e3ca>(本BUG仅在多人5+player超过4位玩家时出现的错误)</font>  
   ![alt](./img/B101.jpg)
 - 坠机险途开启机关后不可穿越火墙  
-  ![alt](./img/B102.jpg)  
+  ![alt](./img/B102a.jpg)
   ![alt](./img/B102b.jpg)
 
 ### 2. 卡车库(结局) The Truck Depot Finale
